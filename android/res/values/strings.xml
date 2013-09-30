@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parse Dev Day</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_talks">Talks</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="photo">Photo</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_schedule">Add to Schedule</string>
+    
+</resources>

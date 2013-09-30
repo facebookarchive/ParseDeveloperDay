@@ -1,0 +1,27 @@
+//
+// Prefix header for all source files of the 'Parse Dev Day' target in the 'Parse Dev Day' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_6_0
+#warning "This project uses features only available in iOS SDK 6.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#ifndef __IPHONE_7_0
+#define __IPHONE_7_0 70000
+#endif
+
+#ifndef FB_IOS7_SDK_OR_LATER
+#define FB_IOS7_SDK_OR_LATER __IPHONE_OS_VERSION_MAX_ALLOWED >= __IPHONE_7_0
+#endif
+
+#define FB_PRE_IOS6 (kCFCoreFoundationVersionNumber < kCFCoreFoundationVersionNumber_iPhoneOS_6_0)
+#define FB_AT_LEAST_IOS6 (kCFCoreFoundationVersionNumber >= kCFCoreFoundationVersionNumber_iPhoneOS_6_0)
+#define FB_PRE_IOS7 (kCFCoreFoundationVersionNumber < kCFCoreFoundationVersionNumber_iPhoneOS_7_0)
+#define FB_AT_LEAST_IOS7 (kCFCoreFoundationVersionNumber >= kCFCoreFoundationVersionNumber_iPhoneOS_7_0)
