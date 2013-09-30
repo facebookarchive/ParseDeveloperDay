@@ -35,7 +35,7 @@ As mentioned earlier, both versions of the PDD app are already configured to use
 2. Write down your new application id and client key. You will need these later. Remember that you can always get your keys from your app's Settings page.
 3. Locate the `data` folder in your local clone of the PDD repo. Here you will find `Talk.json`, `Speaker.json`, `Slot.json`, and `Room.json`. These can be imported into your brand new Parse app.
 4. Go to your app's Data Browser, and click on the "Import" button. Choose `Talk.json` and give your new class the name "Talk". Repeat this for each of the json files in the `data` folder, giving them the appropriate class name.
-5. Set up your app keys in your project (see below).
+5. Set up your app keys in your project (see "Custom App Setup" below).
 6. Build and Run.
 
 Confirm that everything is working correctly. You may now modify the list of Talks, Speakers, and Rooms to suit your conference.

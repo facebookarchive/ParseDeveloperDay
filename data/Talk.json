@@ -1,0 +1,512 @@
+{ "results": [
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "z3ApR9v3X4"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "MQZn3MLewQ"
+  },
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"Ftx25BqQPv"}
+  ],
+  "title": "Designing Great APIs",
+  "createdAt": "2013-07-29T04:33:43.019Z",
+  "updatedAt": "2013-09-05T00:09:54.429Z",
+  "objectId": "iHG1m06N6I"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "jC85VJ4fBg"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "nghPWrMyz3"
+  },
+  "abstract": "Deep dive into advanced cloud code features. We'll build a custom website on Parse, with dynamically generated and static content. Then expand beyond HTML with custom endpoints that return binary data.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"51sfLoaO7d"}
+  ],
+  "title": "Advanced Cloud Code",
+  "createdAt": "2013-07-29T04:41:11.003Z",
+  "updatedAt": "2013-07-31T08:04:45.434Z",
+  "objectId": "DBszStWge4"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "z3ApR9v3X4"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "0TfvbH8Eye"
+  },
+  "abstract": "Doug Purdy, Product Management Director at Facebook, will be leading a panel with the creators of such Parse-powered apps as Elmo Calls, Cookie Calls, the Food Network On the Road app, and more.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"6RDIWN52nC"},
+    {"__type":"Pointer","className":"Speaker","objectId":"F7hGqR0AJp"},
+    {"__type":"Pointer","className":"Speaker","objectId":"9IYeRu30qU"},
+    {"__type":"Pointer","className":"Speaker","objectId":"WaWMq12MWB"}
+  ],
+  "title": "Customer Panel",
+  "createdAt": "2013-07-29T04:33:52.060Z",
+  "updatedAt": "2013-07-31T08:01:49.484Z",
+  "objectId": "wCYgdgDVWJ"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "j2nn0A7lXR"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "yn3UHUH6jW"
+  },
+  "alwaysFavorite": true,
+  "icon": {
+    "__type": "File",
+    "name": "8a568f19-1673-4748-8f93-8e7d55df5554-icecream_icon_2x.png",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/8a568f19-1673-4748-8f93-8e7d55df5554-icecream_icon_2x.png"
+  },
+  "speakers": [
+
+  ],
+  "title": "Ice Cream Break",
+  "createdAt": "2013-07-31T06:05:45.258Z",
+  "updatedAt": "2013-09-04T18:33:18.349Z",
+  "objectId": "Sa2IhISfyi"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "FNkltdqLyG"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "4xkK1CVEbh"
+  },
+  "abstract": "Twilio and Parse provide simple, scalable APIs for complex server-side tasks like telephony, messaging, user management, and persistence. Developers use these API building blocks to move faster than ever to create applications that their customers love. Complex business applications, that in years past might have taken large teams months to create, can now be developed by a single person in a matter of days.\n\nIn this presentation, we will focus on how one such application, the call center, can be developed and deployed without provisioning a server, setting up a database, or even hiring a dedicated back end developer. We'll begin by breaking down the requirements of a call center application (http://www.twilio.com/solutions/call-centers), and designing the solution using Twilio and Parse/Cloud Code. We'll then do a demo and code walkthrough of a call center application that connects agents to customers dialing in from anywhere directly in the browser.\n\nSoftware people like you are building the future of human interaction, at a blistering pace, with new tools like Twilio and Parse. I hope you'll join us to learn more about how it's done!",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"y65JicZi6u"}
+  ],
+  "title": "Building a Call Center with Parse and Twilio",
+  "createdAt": "2013-07-29T01:18:02.660Z",
+  "updatedAt": "2013-07-31T08:02:18.242Z",
+  "objectId": "97OYhIp5vJ"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "jC85VJ4fBg"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "4xkK1CVEbh"
+  },
+  "abstract": "Whether you're building a game or a serious app for getting work done in your organization, Parse has you covered. In this talk, we'll explore how Parse can help you easily implement proper data access controls for your application and ensure data integrity through custom validation and server-side business logic. You'll also see how Parse's SDKs can help you go from zero to app quickly with simple, prefabricated UI components that work seamlessly with your data. Building line of business applications has never been so easy.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"PCX17s1WeK"}
+  ],
+  "title": "Line of Business Apps with Parse",
+  "createdAt": "2013-07-29T01:16:48.390Z",
+  "updatedAt": "2013-07-31T08:02:37.281Z",
+  "objectId": "b42UxrEtRw"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "4zSux2lEPq"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "4xkK1CVEbh"
+  },
+  "abstract": "In this talk we'll take a look at Parse's cloud-based platform and see why it fills a crucial gap in your app development tool belt. Explore our data APIs and learn how to make your apps social. Find out how you can take advantage of push notifications to create an engaging user experience.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"VKMYTg5Dux"}
+  ],
+  "title": "Getting Started with Parse",
+  "createdAt": "2013-07-29T01:18:05.237Z",
+  "updatedAt": "2013-07-31T08:02:59.958Z",
+  "objectId": "3VnxslpdnZ"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "4zSux2lEPq"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "1It3mBn4S7"
+  },
+  "abstract": "A user experience is transformed when the cloud pushes data to its clients. Whether an app uses notifications to alert users of new data or background push to fetch updates automatically, push brings apps to life. Where users would otherwise anxiously poll for updates, they begin to relax and consume dynamic data. As the user trusts an app to be fresh, content takes center stage and apps become more engaging.\n\nDiscover the unique push features in iOS, Android, Windows, and Windows Phone. Learn how Parse allows you to easily push from any SDK to any SDK while still taking advantage of each OS' native flair. See the power of Parse's push targeting system and learn strategies of targeting your notifications, from simple to advanced.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"yhGgnY8H1L"}
+  ],
+  "title": "All About Push",
+  "createdAt": "2013-07-29T04:34:44.224Z",
+  "updatedAt": "2013-07-31T08:03:24.581Z",
+  "objectId": "nCViegj6BK"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "4zSux2lEPq"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "jaZhmMn9FV"
+  },
+  "abstract": "There are times when you want to branch out beyond mobile-only code and enhance your Parse app to take advantage of code that runs on the cloud. There are various reasons you may want to do this and this session will introduce you to Cloud Code and how it can easily help you achieve this.\n\nYou'll walk through a typical development workflow. Then dive into Cloud Functions and learn how to build a function and run it from a mobile app. You'll also learn about before and after save functions and scenarios where this would be useful. Finally, you'll get an introduction to Modules and how you can use them to organize your code and how to use built-in Cloud Modules to integrate your app with third-party services and libraries.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"I3XoCQHWET"}
+  ],
+  "title": "Cloudy with a Bunch of Code",
+  "createdAt": "2013-07-29T04:38:59.417Z",
+  "updatedAt": "2013-07-31T08:03:39.221Z",
+  "objectId": "I6OfABLeAL"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "4zSux2lEPq"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "nghPWrMyz3"
+  },
+  "abstract": "Learn about how to build your first Android app using Parse. We'll begin with a number of basic examples covering things like how to create your app, what kinds of objects and classes Parse provides out of the box, how to add Users and Login to your app, and how to query your data. We'll follow this up with more advanced examples including Parse's Android UI Components, Push Notifications, and location based GeoQueries.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"t0xLsq0gO0"}
+  ],
+  "title": "Getting started with Parse on Android",
+  "createdAt": "2013-07-29T04:40:11.357Z",
+  "updatedAt": "2013-07-31T08:03:49.618Z",
+  "objectId": "qV4bafy87w"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "4zSux2lEPq"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "fwNEablTr1"
+  },
+  "abstract": "What's going on with your app? Are people actually using it? Are those push notifications you sent yesterday having any effect? Insight into the daily happenings of your app can be vital to understanding what works and what doesn't.\n\nTogether, we'll tour Parse's recently released Analytics features to delve into your app's usage in realtime. Learn about the various hooks you can use to instrument your own code, and about the datapoints collected for free on your behalf.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"G6bCT8BrCB"}
+  ],
+  "title": "Drill Down into Parse Analytics",
+  "createdAt": "2013-07-29T04:41:39.507Z",
+  "updatedAt": "2013-07-31T08:04:06.678Z",
+  "objectId": "RD3Z1aijdE"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "FNkltdqLyG"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "fwNEablTr1"
+  },
+  "abstract": "26% of users never open an app a second time. This talk will explore customer communication and engagement through email and give examples of how to apply them in a Parse app. Learn when to use email to connect with customers (and when to use something else). See code samples that use Cloud Code and Parse modules to painlessly send and receive email, while gaining additional insight into customer interactions through email analytics.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"uKMA1aFfc8"}
+  ],
+  "title": "Email: Driving Repeat Usage for Your App",
+  "createdAt": "2013-07-29T04:42:02.995Z",
+  "updatedAt": "2013-07-31T08:04:18.973Z",
+  "objectId": "B8Sf3jP8jy"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "jC85VJ4fBg"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "jaZhmMn9FV"
+  },
+  "abstract": "This presentation will walk the audience through creating a simple Parse-powered HTML5 app using the JavaScript SDK. The Parse JavaScript SDK is based on the popular Backbone.js framework and is compatible with existing Backbone applications with minimal changes on your part. Our goal is to minimize configuration and let you quickly start building your JavaScript and HTML5 apps on Parse.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"08nXmoDCgV"}
+  ],
+  "title": "Creating Games with the Parse JS SDK",
+  "createdAt": "2013-07-29T04:39:50.044Z",
+  "updatedAt": "2013-07-31T08:04:31.685Z",
+  "objectId": "4nkO0gqFLi"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "FNkltdqLyG"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "nghPWrMyz3"
+  },
+  "abstract": "Discover how easy it is to build cloud-enabled mobile apps for iOS and Android with C#. We'll add the native Parse SDK to a Xamarin project and wire it up with C# to implement cloud storage and sharing across mobile devices.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"pgwuIMelwF"}
+  ],
+  "title": "iOS and Android Apps with Xamarin & C#",
+  "createdAt": "2013-07-29T04:40:38.221Z",
+  "updatedAt": "2013-07-31T08:04:53.380Z",
+  "objectId": "iaApl1gq7y"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "jC85VJ4fBg"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "1It3mBn4S7"
+  },
+  "abstract": "Building an awesome app is just the first step to making your business successful. This session will cover case studies and best practices for user acquisition and retention. The first portion will focus on how to use Facebook's Mobile App Install Ads to build your user base; the second portion will cover ways to use social channels to keep your users engaged.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"6q9QcHaDeq"}
+  ],
+  "title": "Getting New Users and Keeping Them Engaged",
+  "createdAt": "2013-07-29T04:38:28.344Z",
+  "updatedAt": "2013-07-31T08:05:28.010Z",
+  "objectId": "bbKj1OV1eZ"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "jC85VJ4fBg"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "fwNEablTr1"
+  },
+  "abstract": "Objects can have relationships with other objects. In Parse, there are a number of really easy ways to implement these relationships. In this session, we’ll look at the different scenarios for which you will want to create relationships, show you how to implement each of them in Parse, and then discuss some of the circumstances for when you would want to choose one over the other, and the tradeoffs in doing so.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"bo9sy14SFo"}
+  ],
+  "title": "Relationships in Parse: It's not Complicated",
+  "createdAt": "2013-07-29T04:42:23.682Z",
+  "updatedAt": "2013-07-31T08:05:45.455Z",
+  "objectId": "vSdiUtW6uU"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "z3ApR9v3X4"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "SI0JU8ctXS"
+  },
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"emOZzy1oGe"}
+  ],
+  "title": "Opening Keynote",
+  "createdAt": "2013-07-29T04:33:27.647Z",
+  "updatedAt": "2013-08-16T23:38:49.319Z",
+  "objectId": "VviXBNjWaU"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "z3ApR9v3X4"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "j6oK8BmZkv"
+  },
+  "abstract": "Parse is the platform for all apps, not just mobile. With the recent launch of Parse Hosting, it's now possible to create full blown custom backends and web apps in tandem with your mobile apps. Powered by express.js and our JavaScript SDK, it's the easiest way to build dynamic web content.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"0KWybra1gW"}
+  ],
+  "title": "Parse is Everywhere",
+  "createdAt": "2013-07-29T04:33:34.702Z",
+  "updatedAt": "2013-08-28T16:18:19.969Z",
+  "objectId": "mI5EB0AeDQ"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "j2nn0A7lXR"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "eBgbYdJRAc"
+  },
+  "abstract": "Lunch will be provided and take place in the Be Social Hall.",
+  "alwaysFavorite": true,
+  "icon": {
+    "__type": "File",
+    "name": "11ebe27e-8b5c-4f9f-a8fd-b0d820ff6415-lunch_2x.png",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/11ebe27e-8b5c-4f9f-a8fd-b0d820ff6415-lunch_2x.png"
+  },
+  "speakers": [
+
+  ],
+  "title": "Lunch (food provided)",
+  "createdAt": "2013-07-31T05:37:10.876Z",
+  "updatedAt": "2013-08-29T03:47:39.377Z",
+  "objectId": "nH5RgPmSVo"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "j2nn0A7lXR"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "9pktoJxSvz"
+  },
+  "alwaysFavorite": true,
+  "icon": {
+    "__type": "File",
+    "name": "3745c133-f365-4dfd-884a-5dd1cfc3ab89-coffee_2x.png",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/3745c133-f365-4dfd-884a-5dd1cfc3ab89-coffee_2x.png"
+  },
+  "speakers": [
+
+  ],
+  "title": "Registration/Breakfast",
+  "createdAt": "2013-07-31T06:10:28.891Z",
+  "updatedAt": "2013-08-29T03:47:53.292Z",
+  "objectId": "OOY98A9cFu"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "FNkltdqLyG"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "jaZhmMn9FV"
+  },
+  "abstract": "With over 100K+ apps and 250M+ app downloads on Windows 8 and 160K+ apps and 200M+ downloads per month on Windows Phone, the Microsoft app ecosystem is growing fast. Is your app on the Windows and Windows Phone stores yet? Does your SDK support building apps for the Microsoft platforms? In this session, we will cover the key things every developer should know about building apps for Windows and Windows Phone and how you can consume a host of 3rd party SDKs and services (such as Parse, Facebook SDK etc.) to monetize your apps. We will also cover some of the new features in Windows 8.1 that help you monetize your apps better.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"ETY2SyXPj8"},
+    {"__type":"Pointer","className":"Speaker","objectId":"PtEHrdad4x"}
+  ],
+  "title": "Monetize Your Apps on Windows 8 and Windows Phone 8",
+  "createdAt": "2013-07-29T04:39:30.086Z",
+  "updatedAt": "2013-08-29T17:13:47.839Z",
+  "objectId": "rpIAz7nF5Q"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "FNkltdqLyG"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "1It3mBn4S7"
+  },
+  "abstract": "Users abandon purchases for many reasons: poor design of the checkout form, the hassle of having to punch in their card details, or even just the fact that they're confronted with an unfamiliar checkout experience. With Stripe Checkout (https://stripe.com/docs/checkout), Stripe tackles these problems so you can focus on your core business.\n\nThis talk will show how to use Checkout and Parse's Stripe integration to craft a great purchasing experience for your users. We'll also be demoing a powerful new Checkout feature.",
+  "speakers": [
+    {"__type":"Pointer","className":"Speaker","objectId":"y3OM13H4jR"}
+  ],
+  "title": "A New Kind of Checkout",
+  "createdAt": "2013-07-29T04:37:58.274Z",
+  "updatedAt": "2013-09-03T19:08:55.294Z",
+  "objectId": "uzCu2CrMOs"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "3knGcdYRnx"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "O4amuKzZgo"
+  },
+  "abstract": "The After Party will take place nearby at Press Club, located at 20 Yerba Buena Ln. More information about Press Club can be found at http://www.pressclubsf.com/.",
+  "alwaysFavorite": true,
+  "icon": {
+    "__type": "File",
+    "name": "851528cd-0549-43b9-b206-195993307cf6-drink_2x.png",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/851528cd-0549-43b9-b206-195993307cf6-drink_2x.png"
+  },
+  "speakers": [
+
+  ],
+  "title": "After Party",
+  "createdAt": "2013-07-29T04:46:47.450Z",
+  "updatedAt": "2013-09-04T04:52:48.923Z",
+  "objectId": "QBNYryW90j"
+},
+{
+  "room": {
+    "__type": "Pointer",
+    "className": "Room",
+    "objectId": "z3ApR9v3X4"
+  },
+  "slot": {
+    "__type": "Pointer",
+    "className": "Slot",
+    "objectId": "ThtiX8v4C8"
+  },
+  "abstract": "Join us and your fellow developers as they discuss the apps that they've built on Parse.",
+  "alwaysFavorite": true,
+  "icon": {
+    "__type": "File",
+    "name": "a14fba83-dc34-45c7-8620-33bb3e6024c7-show_2x.png",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/a14fba83-dc34-45c7-8620-33bb3e6024c7-show_2x.png"
+  },
+  "speakers": [
+
+  ],
+  "title": "Show and Tell + Happy Hour",
+  "createdAt": "2013-07-29T04:46:23.232Z",
+  "updatedAt": "2013-09-04T17:14:29.574Z",
+  "objectId": "w31jhtF34x"
+}
+] }

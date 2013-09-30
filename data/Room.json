@@ -1,0 +1,43 @@
+{ "results": [
+{
+  "name": "Salon 7",
+  "nickname": "3",
+  "createdAt": "2013-07-29T01:14:48.719Z",
+  "updatedAt": "2013-09-05T20:40:18.278Z",
+  "objectId": "jC85VJ4fBg"
+},
+{
+  "name": "Salon 6",
+  "nickname": "2",
+  "createdAt": "2013-07-29T01:14:44.903Z",
+  "updatedAt": "2013-09-05T20:40:27.559Z",
+  "objectId": "FNkltdqLyG"
+},
+{
+  "name": "Salon 8",
+  "nickname": "1",
+  "createdAt": "2013-07-29T01:14:40.969Z",
+  "updatedAt": "2013-09-05T20:40:36.791Z",
+  "objectId": "4zSux2lEPq"
+},
+{
+  "name": "Keynote Room",
+  "nickname": "k",
+  "createdAt": "2013-07-29T01:14:31.987Z",
+  "updatedAt": "2013-07-29T03:55:26.950Z",
+  "objectId": "z3ApR9v3X4"
+},
+{
+  "name": "Be Social Hall",
+  "nickname": "cafe",
+  "createdAt": "2013-07-31T05:31:25.432Z",
+  "updatedAt": "2013-08-28T16:27:52.563Z",
+  "objectId": "j2nn0A7lXR"
+},
+{
+  "name": "Press Club",
+  "createdAt": "2013-09-04T02:19:42.564Z",
+  "updatedAt": "2013-09-04T02:19:42.564Z",
+  "objectId": "3knGcdYRnx"
+}
+] }

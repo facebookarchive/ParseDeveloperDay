@@ -1,0 +1,384 @@
+{ "results": [
+{
+  "bio": "Doug Purdy is the Director of Product Management where he drives the development of Facebook Platform including the Open Graph, Games & Payments and Developer Experience. He previously was a Director of Engineering and Director of Developer Relations at Facebook.  Prior to joining Facebook, Doug spent 11 years at Microsoft in consulting, evangelism and engineering leadership roles building software development tools and frameworks.",
+  "company": "Facebook",
+  "name": "Doug Purdy",
+  "nickname": "doug",
+  "photo": {
+    "__type": "File",
+    "name": "e027f9c4-44ef-4f41-bb2d-6c17ad52ceb9-doug_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/e027f9c4-44ef-4f41-bb2d-6c17ad52ceb9-doug_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/doug_bw.jpg",
+  "title": "PM Director",
+  "createdAt": "2013-07-29T00:56:51.066Z",
+  "updatedAt": "2013-07-31T07:48:08.434Z",
+  "objectId": "6RDIWN52nC"
+},
+{
+  "bio": "Kevin spent four years at Google on the search quality team designing search algorithms. He then co-founded a Y Combinator company called Gamador. As an undergraduate at Duke, Kevin won the Putnam Math Competition not once but twice. He was on the US Math Olympiad team. His favorite emoticon is :(){ :|:& };:\n\nKevin holds a B.S. from Duke where he double majored in Computer Science and Math and a Master's in Computer Science from Berkeley.",
+  "company": "Parse",
+  "name": "Kevin Lacker",
+  "nickname": "kevin",
+  "photo": {
+    "__type": "File",
+    "name": "da1d856d-6ee9-49cc-ba46-5486a4d153b6-kevin_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/da1d856d-6ee9-49cc-ba46-5486a4d153b6-kevin_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/kevin_bw.jpg",
+  "title": "CTO",
+  "twitter": "lacker",
+  "createdAt": "2013-07-29T00:49:06.449Z",
+  "updatedAt": "2013-08-17T00:05:30.845Z",
+  "objectId": "Ftx25BqQPv"
+},
+{
+  "bio": "Christine is happiest when neck-deep in an interesting project. After starting a Y Combinator startup and working on consumer-facing problems across the stack at Aardvark and Google, she's excited to be building something developers love.\n\nShe graduated from MIT with a B.S. in Computer Science, tries to read a book a week, loves commas (and parentheticals), and is surprisingly crafty.",
+  "company": "Parse",
+  "name": "Christine Yen",
+  "nickname": "cyen",
+  "photo": {
+    "__type": "File",
+    "name": "da31c86d-a4b7-4a50-84c8-4790a4f50190-christine_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/da31c86d-a4b7-4a50-84c8-4790a4f50190-christine_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/christine_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "cyen",
+  "createdAt": "2013-07-29T00:51:40.127Z",
+  "updatedAt": "2013-08-17T00:05:53.870Z",
+  "objectId": "G6bCT8BrCB"
+},
+{
+  "bio": "Dominique leads the innovation of digital experiences in the Toy Lab at IDEO. The Toy Lab works on both physical and digital toys, and Dominique directs the efforts in advancing the digital side of things. This is his second year at IDEO after graduating from Stanford in 2011.",
+  "company": "IDEO",
+  "name": "Dominique Yahyavi",
+  "nickname": "dom",
+  "photo": {
+    "__type": "File",
+    "name": "89295386-018d-4d7e-aac5-0cc3588d13df-ideo_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/89295386-018d-4d7e-aac5-0cc3588d13df-ideo_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/ideo_bw.jpg",
+  "title": "Senior Design Engineer",
+  "createdAt": "2013-07-29T00:57:15.616Z",
+  "updatedAt": "2013-07-31T07:48:25.592Z",
+  "objectId": "F7hGqR0AJp"
+},
+{
+  "bio": "Kevin is a front-end hacker and developer evangelist for Twilio, an API company supporting the developers changing communications forever. Kevin is happiest hacking JavaScript on the client or server, but also loves building native mobile apps in Objective-C, Java, and C#. Kevin lives in Saint Paul, MN with his beautiful wife and three devious children.",
+  "company": "Twilio",
+  "name": "Kevin Whinnery",
+  "nickname": "whin",
+  "photo": {
+    "__type": "File",
+    "name": "4c788cc7-12c2-458c-8270-c33c41e3ab8c-twilio_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/4c788cc7-12c2-458c-8270-c33c41e3ab8c-twilio_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/twilio_bw.jpg",
+  "title": "Dev. Evangelist",
+  "createdAt": "2013-07-29T00:54:46.566Z",
+  "updatedAt": "2013-07-31T07:48:56.189Z",
+  "objectId": "y65JicZi6u"
+},
+{
+  "bio": "Nick Quinlan is a SendGrid Developer Evangelist based out of San Fransico. He works to make developers lives easier by providing them with the help they need to grow their ideas. Passionate about solving problems, Nick has been coding since age eleven. He previously worked in internet marketing where he helped some of the worlds largest companies better connect with their customers.",
+  "company": "SendGrid",
+  "name": "Nick Quinlan",
+  "nickname": "nick",
+  "photo": {
+    "__type": "File",
+    "name": "75bb2b87-51eb-4342-a260-69d43c8b90cd-sendgrid_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/75bb2b87-51eb-4342-a260-69d43c8b90cd-sendgrid_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/sendgrid_bw.jpg",
+  "title": "Dev. Evangelist",
+  "createdAt": "2013-07-29T00:56:20.566Z",
+  "updatedAt": "2013-07-31T07:49:08.983Z",
+  "objectId": "uKMA1aFfc8"
+},
+{
+  "bio": "Craig is a technical writer & developer evangelist at Xamarin. He fell in love with the very early betas of MonoTouch, blogged about it, then used it on large mobile projects in the wild before joining Xamarin.",
+  "company": "Xamarin",
+  "name": "Craig Dunn",
+  "nickname": "craig",
+  "photo": {
+    "__type": "File",
+    "name": "21768638-7248-4051-baa4-cae170bd4e7f-xamarin_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/21768638-7248-4051-baa4-cae170bd4e7f-xamarin_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/xamarin_bw.jpg",
+  "title": "Dev. Evangelist",
+  "createdAt": "2013-07-29T00:55:46.623Z",
+  "updatedAt": "2013-07-31T07:49:18.608Z",
+  "objectId": "pgwuIMelwF"
+},
+{
+  "bio": "Jeff is an engineer and founder of the Over app.",
+  "company": "Over",
+  "name": "Jeff Jackson",
+  "nickname": "jeff",
+  "photo": {
+    "__type": "File",
+    "name": "612b7eed-2023-443a-9e95-1689321c2373-over_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/612b7eed-2023-443a-9e95-1689321c2373-over_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/placeholder.png",
+  "title": "Founder/Engineer",
+  "createdAt": "2013-07-29T00:58:08.204Z",
+  "updatedAt": "2013-08-29T17:11:57.195Z",
+  "objectId": "WaWMq12MWB"
+},
+{
+  "bio": "Ashwin is a program manager on the Windows Ecosystem at Microsoft where he drives community engagement to onboard and enable SDK partners supporting Windows Store apps. Prior to that Ashwin was a program manager on the .NET Framework team and delivered various performance, reliability and diagnostics experiences in the .NET runtime (CLR) for Windows 8, Windows Phone and Windows Azure. He loves talking to developers and doesn’t miss an opportunity to meet new people at local meetups, hackathons or developer conferences. Before joining Microsoft, Ashwin worked at IT consulting firms such as Infosys and Aditi. Ashwin holds a degree in Electronics & Communications Engineering from Mangalore University in India. On a calm weekend, you could find him fishing on his canoe in one of the beautiful lakes around Puget Sound area.",
+  "company": "Microsoft",
+  "name": "Ashwin Kamath",
+  "nickname": "ashwin",
+  "photo": {
+    "__type": "File",
+    "name": "8fd09bf0-f02b-48bf-82fb-cba0b94824aa-microsoft2_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/8fd09bf0-f02b-48bf-82fb-cba0b94824aa-microsoft2_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/placeholder.png",
+  "title": "Senior Program Manager, Windows Ecosystem",
+  "createdAt": "2013-07-29T00:55:26.237Z",
+  "updatedAt": "2013-08-29T17:11:03.561Z",
+  "objectId": "PtEHrdad4x"
+},
+{
+  "bio": "Sanjeev is a Technical Evangelist in Developer and Platform Evangelism at Microsoft where he helps partners in creating great applications on Microsoft platforms. Sanjeev has wide experience developing mobile apps on various platforms and is a big advocate of good design. Prior to this gig, Sanjeev was a Software Developer where he helped ship Windows Store and Windows Core security features on many versions of Windows. After coding in C++/C#/Objective-C for a long time, Sanjeev has slowly fallen in love with JavaScript owing to his philosophy of picking the least complicated tool to get the job at hand done. He now talks to the partners and spreads the word around.",
+  "company": "Microsoft",
+  "name": "Sanjeev Dwivedi",
+  "nickname": "sanjeev",
+  "photo": {
+    "__type": "File",
+    "name": "75c12002-7f19-4e4d-abfa-3949bf6067b4-microsoft1_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/75c12002-7f19-4e4d-abfa-3949bf6067b4-microsoft1_bw.jpg"
+  },
+  "title": "Technical Evangelist, Developer and Platform Evangelism",
+  "createdAt": "2013-08-02T19:00:25.221Z",
+  "updatedAt": "2013-08-29T17:10:08.683Z",
+  "objectId": "ETY2SyXPj8"
+},
+{
+  "bio": "Ilya is a generalist's generalist. Whether it's through product design, architecting large scale systems, or building a company — he's all about creating products that people love to use.\n\nMost recently Ilya was the first employee at Etacts (acquired by Salesforce) where he worked on all things product and engineering. Before that he built a ton of stuff as an early engineer at Ooyala. His boss from those days is now an investor in Parse.\n\nIlya holds a BS and Master's in Computer Science from Cornell where he did distributed systems research and graduated with honors.",
+  "company": "Parse",
+  "name": "Ilya Sukhar",
+  "nickname": "ilya",
+  "photo": {
+    "__type": "File",
+    "name": "aad38eea-04bb-4e0b-8ca0-de63fb317781-ilya_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/aad38eea-04bb-4e0b-8ca0-de63fb317781-ilya_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/ilya_bw.jpg",
+  "title": "CEO",
+  "twitter": "ilyasu",
+  "createdAt": "2013-07-29T00:49:17.544Z",
+  "updatedAt": "2013-08-17T00:05:24.010Z",
+  "objectId": "emOZzy1oGe"
+},
+{
+  "bio": "James is a full stack force of nature. You’ll find him optimizing database queries, architecting new mobile features, and handcrafting visual designs and user experiences. He spends all day thinking about how to make Parse easier to use.\n\nPrior to Parse, he was an early engineer at Scribd where he built many features of the site. He was also an audio hacker at Dolby Laboratories, contributing to the Dolby Digital surround sound psychoacoustic algorithms.\n\nJames holds a B.S. from Cornell and a Master's from Stanford in Electrical Engineering.",
+  "company": "Parse",
+  "name": "James Yu",
+  "nickname": "james",
+  "photo": {
+    "__type": "File",
+    "name": "3c157901-9ad7-499a-bfea-c1f634cb191d-james_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/3c157901-9ad7-499a-bfea-c1f634cb191d-james_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/james_bw.jpg",
+  "title": "CPO",
+  "twitter": "jamesjyu",
+  "createdAt": "2013-07-29T00:49:30.886Z",
+  "updatedAt": "2013-08-17T00:05:33.547Z",
+  "objectId": "0KWybra1gW"
+},
+{
+  "bio": "Héctor worked as a systems architect for four years in the financial technology industry before turning to mobile app development. Héctor is most at ease in front of an Xcode window, but he is also a skilled Java developer with a new-found love for Ruby. His favorite kind of app requires a hefty backend behind it.\n\nHéctor has been actively promoting startups, teaming up with a group of entrepreneurs to launch the Startups of Puerto Rico initiative which helped organize Barcamps, Startup Weekends, and the first TEDx conference to be held in Puerto Rico.\n\nHéctor graduated from the University of Puerto Rico, Mayagüez with a B.S. in Computer Engineering.",
+  "company": "Parse",
+  "name": "Héctor Ramos",
+  "nickname": "hector",
+  "photo": {
+    "__type": "File",
+    "name": "4a71a416-ff4a-4807-9747-d83b9ced6e07-hector_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/4a71a416-ff4a-4807-9747-d83b9ced6e07-hector_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/hector_bw.jpg",
+  "title": "Dev. Advocate",
+  "twitter": "hectorramos",
+  "createdAt": "2013-07-29T00:49:44.284Z",
+  "updatedAt": "2013-08-17T00:05:43.872Z",
+  "objectId": "VKMYTg5Dux"
+},
+{
+  "bio": "Christine has a passion for developers and mobile technologies and has yet to come across a mobile OS she didn't like. This has naturally led to her role as a Developer Advocate working with Parse. At Facebook, she's worked primarily on the iOS and Android SDKs and in supporting strategic Open Graph partnerships. Prior to Facebook, Christine headed up engineering at Mshift, a mobile banking software provider, delivering iOS apps and mobile browser-based products. Prior experiences include co-founding Clickmarks, a mobile and enterprise middleware provider.\n\nChristine has a BS and MS in Electrical Engineering from MIT.",
+  "company": "Parse",
+  "name": "Christine Abernathy",
+  "nickname": "cab",
+  "photo": {
+    "__type": "File",
+    "name": "1a0a81f5-8638-4123-8507-3fe91db512a9-christinea_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/1a0a81f5-8638-4123-8507-3fe91db512a9-christinea_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/christinea_bw.jpg",
+  "title": "Dev. Advocate",
+  "twitter": "abernathyca",
+  "createdAt": "2013-07-29T00:51:59.945Z",
+  "updatedAt": "2013-08-17T00:05:52.497Z",
+  "objectId": "I3XoCQHWET"
+},
+{
+  "bio": "Alex has 15 years of experience helping other companies build apps and systems. He has developed software for a number of industries including Television & Print media, Healthcare, Education, Retail, Professional Sports, Financial Services, Defense, Homeland Security, and other Federal Government agencies.\n\nAlex runs Apparent Logic, a consulting company in San Francisco focused on helping others build great iOS apps.",
+  "company": "Sequence",
+  "name": "Alex Fajkowski",
+  "nickname": "alex",
+  "photo": {
+    "__type": "File",
+    "name": "03324145-aabc-40f4-ad0b-9d604a19176f-sequence_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/03324145-aabc-40f4-ad0b-9d604a19176f-sequence_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/sequence_bw.jpg",
+  "title": "Mobile Developer",
+  "twitter": "thefaj",
+  "createdAt": "2013-07-29T00:57:46.008Z",
+  "updatedAt": "2013-08-17T00:06:06.101Z",
+  "objectId": "9IYeRu30qU"
+},
+{
+  "bio": "Prashant Sridharan is a Developer Advocate at Facebook, where he helps developers around the world learn how to build great apps using the Facebook platform. Prior to Facebook, Prashant was the Director of Marketing for Amazon Web Services, the chief Product Manager for Microsoft Visual Studio, a product manager at various startups, and a software developer at Sun Microsystems. He is well past the \"yucky\" phase with Objective C and LOVES to build iOS apps, adores Ruby on Rails, and spends every moment of his free time either snowboarding or training for snowboarding season.",
+  "company": "Parse",
+  "name": "Prashant Sridharan",
+  "nickname": "prashant",
+  "photo": {
+    "__type": "File",
+    "name": "5850e32b-4403-4972-9c14-3bb0b96eab32-prashant_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/5850e32b-4403-4972-9c14-3bb0b96eab32-prashant_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/prashant_bw.jpg",
+  "title": "Dev. Advocate",
+  "twitter": "CoolAssPuppy",
+  "createdAt": "2013-07-29T00:53:22.706Z",
+  "updatedAt": "2013-08-17T00:06:21.274Z",
+  "objectId": "bo9sy14SFo"
+},
+{
+  "bio": "Thomas is an infrastructure wiz. While Windows 7 was being developed, Thomas designed ways to reinvent how apps could interact with and integrate into Windows. This work yielded four patents and helped guide Windows 8 to its app-centric theme. After his research, Thomas developed the infrastructure for the Windows 8 \"Windows Web Application\" engine. Thomas then moved to Google to study cloud computing as a member of the Image Search team. His work there increased the infrastructure's scale, improved Image Search's agility, and dramatically reduced the latency for processing images. Somewhere along the way he picked up a bartending habit.\n\nThomas graduated from California Polytechnic State University, San Luis Obsipo with a B.S. in Software Engineering.",
+  "company": "Parse",
+  "name": "Thomas Bouldin",
+  "nickname": "tom",
+  "photo": {
+    "__type": "File",
+    "name": "2e58c68b-55a5-4f6c-b13c-9b6d0724cef7-thomas_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/2e58c68b-55a5-4f6c-b13c-9b6d0724cef7-thomas_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/thomas_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "inlined",
+  "createdAt": "2013-07-29T00:51:12.203Z",
+  "updatedAt": "2013-08-17T00:06:33.780Z",
+  "objectId": "yhGgnY8H1L"
+},
+{
+  "bio": "After getting his first iPhone, Mattieu fell in love with the mobile world. He discovered Parse as one of it's earliest users and immediately set his sights on becoming part of their growing team. At Parse, Mattieu works as a software engineer on all things mobile and web, but also jumps on any opportunity to talk to developers about this revolutionary platform.\n\nMattieu holds a Bachelor's in Software Engineering from the University of Ottawa, where he graduated suma cum laude. When he is not hard at work at Parse, you'll find Mattieu rocking out on his guitar or carving down the mountainside on his snowboard.",
+  "company": "Parse",
+  "name": "Mattieu Gamache-Asselin",
+  "nickname": "matt",
+  "photo": {
+    "__type": "File",
+    "name": "c7e1813a-25b5-4684-8602-ac4c9d59506d-matt_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/c7e1813a-25b5-4684-8602-ac4c9d59506d-matt_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/matt_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "mattieuga",
+  "createdAt": "2013-07-29T00:54:01.879Z",
+  "updatedAt": "2013-08-17T00:06:54.899Z",
+  "objectId": "08nXmoDCgV"
+},
+{
+  "bio": "Bryan was previously a search quality engineer at Google. He was part of the team that launched Google+ search and Search plus Your World. He began studying information retrieval and machine learning at Carnegie Mellon University, where he researched email classification, publishing one of the first papers analyzing the Enron email corpus.\n\nBryan is also interested in mobile app development and music, which led him to create the Music Synthesizer for Android open source project.\n\nBryan holds a Master's in Language Technologies from Carnegie Mellon and a B.S. in Computer Science from Baylor University.",
+  "company": "Parse",
+  "name": "Bryan Klimt",
+  "nickname": "bryan",
+  "photo": {
+    "__type": "File",
+    "name": "50be49ba-fc46-4248-8394-1e8c69ff7e68-bryan_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/50be49ba-fc46-4248-8394-1e8c69ff7e68-bryan_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/bryan_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "bklimt",
+  "createdAt": "2013-07-29T00:50:00.606Z",
+  "updatedAt": "2013-08-17T00:06:58.295Z",
+  "objectId": "51sfLoaO7d"
+},
+{
+  "bio": "David is a geek, and it shows. He first became interested in framework development working for Microsoft's Silverlight team, where he gained a healthy appreciation for the nuances of building software for other developers to consume. After working on Google's Chrome team, David found his way to Parse, bringing him right back to the developer-facing world he had grown to love.\n\nIn addition to David's work for the tech giants, David has found ways to combine mobile development with his hobbies, building a few successful apps for Android and Windows Phone that serve the a cappella and barbershop singing communities. His app development ultimately led him to Parse, and once he saw what they were up to, he had to become involved.\n\nDavid is a Siebel Scholar and graduate with high honors from UC Berkeley, holding a B.A. and an M.Sc. in Computer Science.",
+  "company": "Parse",
+  "name": "David Poll",
+  "nickname": "david",
+  "photo": {
+    "__type": "File",
+    "name": "23ef0526-a327-427d-80e4-9e42d40e7401-david_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/23ef0526-a327-427d-80e4-9e42d40e7401-david_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/david_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "depoll",
+  "createdAt": "2013-07-29T00:51:26.369Z",
+  "updatedAt": "2013-08-17T00:07:09.877Z",
+  "objectId": "PCX17s1WeK"
+},
+{
+  "bio": "Brad is a video game nut who somehow found a way to turn that into a respectable living. He co-founded Windward Mark Interactive right out of college which was later acquired by Linden Lab. Recently he's done some mobile development at Facebook and at Coffee and Power. In general he loves working on platform products that enable other developers to make awesome stuff. He has quite a few unfinished breadboarding projects, likes sketching people, and brews a bit of beer and hard cider on the side.\n\nBrad graduated with honors from Harvard University with a concentration in Computer Science.",
+  "company": "Parse",
+  "name": "Brad Kittenbrink",
+  "nickname": "brad",
+  "photo": {
+    "__type": "File",
+    "name": "9e27b28b-443f-47b6-83dd-bad9deaf59d1-brad_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/9e27b28b-443f-47b6-83dd-bad9deaf59d1-brad_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/brad_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "bardbrad",
+  "createdAt": "2013-07-29T00:52:26.492Z",
+  "updatedAt": "2013-08-17T00:07:14.219Z",
+  "objectId": "t0xLsq0gO0"
+},
+{
+  "bio": "Bear worked as a developer advocate at Facebook and as community manager for the open source project SproutCore (now Ember.js) before joining the Parse team.\n\nShe holds a BA with honors and a Master's in Archaeology from Stanford, and spent her time digging up ancient cities and not-so-ancient parts of San Francisco before making the obvious transition to working in tech. In her spare time, she sings a cappella with Facebook's group The Vocal Network, which is exactly as nerdy as it sounds.",
+  "company": "Parse",
+  "name": "Bear Douglas",
+  "nickname": "bear",
+  "photo": {
+    "__type": "File",
+    "name": "d40772ab-3c07-4311-adec-d7cd29768353-bear_bw.jpg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/d40772ab-3c07-4311-adec-d7cd29768353-bear_bw.jpg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/bear_bw.jpg",
+  "title": "Dev. Advocate",
+  "twitter": "beardigsit",
+  "createdAt": "2013-07-29T00:54:18.895Z",
+  "updatedAt": "2013-08-17T00:07:22.870Z",
+  "objectId": "6q9QcHaDeq"
+},
+{
+  "bio": "Christian engineers internal service infrastructure at Stripe. Before this, he studied physics, math, and computer science at Harvard. When he's not coding for Stripe or a free-software project, he hikes, reads, and thinks about science.",
+  "company": "Stripe",
+  "name": "Christian Anderson",
+  "nickname": "christian",
+  "photo": {
+    "__type": "File",
+    "name": "2f67caad-20f3-4abe-9415-523b84b41149-Unknown.jpeg",
+    "url": "http://files.parse.com/adfc4ec1-4d10-4e5c-a4a3-0f9ded3c94da/2f67caad-20f3-4abe-9415-523b84b41149-Unknown.jpeg"
+  },
+  "photoURL": "http://www.parsedeveloperday.com/images/speakers/stripe_bw.jpg",
+  "title": "Software Engineer",
+  "twitter": "",
+  "createdAt": "2013-07-29T00:55:11.199Z",
+  "updatedAt": "2013-09-03T19:36:39.240Z",
+  "objectId": "y3OM13H4jR"
+}
+] }
