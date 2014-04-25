@@ -58,6 +58,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [PDDTalk findAllInBackgroundWithBlock:^(NSArray *talks, NSError *error) {
+        if (error) {
+            NSLog(@"Error while loading data: %@", error);
+            return;
+        }
         self.rawTalks = talks;
         [self _reorderTableViewSections];
     }];
