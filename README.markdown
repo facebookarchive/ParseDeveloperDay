@@ -1,4 +1,6 @@
-# Parse Developer Day app #
+# [Archive] Parse Developer Day app #
+
+**Note:** *This repository is not under active development.*
 
 This is the entire source code of the official [Parse Developer Day](http://www.parsedeveloperday.com) apps, available on the [App Store](https://itunes.apple.com/us/app/parse-developer-day/id691488056) as well as on [Google Play](https://play.google.com/store/apps/details?id=com.parse.parsedevday). 
 
